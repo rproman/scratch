@@ -1,3 +1,3 @@
 # A scratch repo on GitHub.com
 
-Updated file
+Sample README.md for this scratch repo.
